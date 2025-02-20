@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "inquirer": "^12.4.2",
+    "qr-image": "^3.2.0"
+  },
+  "name": "barcode",
+  "version": "1.0.0",
+  "description": "Generar imagen codigo qr de enlace git",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ALIX",
+  "license": "ISC"
+}
