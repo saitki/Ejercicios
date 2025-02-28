@@ -1,11 +1,11 @@
-Ejemplos de nensajes comit
+Ejemplos de nensajes
 — inicial
-— Abadir estructura básica del proyecto
-— Impre—ntar funcionalidad principal
-— Corregvr errores en ta autenticación de usuarios
-— Actualizar Con instrucciones de configuracion
+— Añadir estructura básica del proyecto
+- Implenentar funcionalidad principal
+— Corregir errores en ta autenticación de usuarios
+— Actualizar README con instrucciones de configuración
 — Refactorizar código para mejor legibilidad
-— Añadir pruebas unitarias para módulos principales
-- Mejorar rendimiento del procesa•iento de datos
-— Actualizar dependencias a las atinas versiones
-— Corregir errores tipográficos y mejorar ta docunentación
+— Añadir pruebas unitarias para módulos principa les
+— Mejorar et rendiniento det procesamiento de datos
+— Actualizar dependencias a las ultimas versiones
+— Corregir errores tipográficos y la documentación
