@@ -1,0 +1,11 @@
+Ejemplos de nensajes comit
+— inicial
+— Abadir estructura básica del proyecto
+— Impre—ntar funcionalidad principal
+— Corregvr errores en ta autenticación de usuarios
+— Actualizar Con instrucciones de configuracion
+— Refactorizar código para mejor legibilidad
+— Añadir pruebas unitarias para módulos principales
+- Mejorar rendimiento del procesa•iento de datos
+— Actualizar dependencias a las atinas versiones
+— Corregir errores tipográficos y mejorar ta docunentación
